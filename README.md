@@ -38,3 +38,8 @@ Here you will find various personal and school projects.
 - **Technologies:** Unity, C#
 - **Description:** 2D platformer game.
 
+## Telco Customer Chrun
+
+- **Technologies:** Python
+- **Description:** The primary goal of this project is to use artificial intelligence, specifically logistic regression, to predict customer churn.
+
